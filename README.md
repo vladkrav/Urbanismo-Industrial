@@ -93,6 +93,7 @@ The interior of the building must be distributed to the main premises that affec
         <td style="width: 50%;"> Total area </td>
         <td style="width: 50%;"> 900 m^2 </td>
     <tr>
+</table>
 
 ## DESCRIPTION OF ENCLOSURE LAYERS
 * Basement: precast concrete wall with 25 cm thickness. Height 1,5 m above ground.
