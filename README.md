@@ -1,5 +1,5 @@
-# GENERAL IMPLEMENTATION OF INDUSTRIAL ESTABLISHMENT.
-The plot and the program of needs of an industrial establishment dedicated to printing are developed.
+# GENERAL IMPLEMENTATION OF INDUSTRIAL WAREHOUSE.
+The plot and the program of needs of an industrial warehouse dedicated to printing are developed.
 It is necessary to develop the situation plan that resolves the implementation and distribution of the building, in such a way that it guarantees the circulation of trucks, accessibility to warehouses, transit of workers and customers, production control, etc.
 
 There is a plot of 60 m x 25 m with accesses in both alignments, with attachment on one of the sides.
@@ -16,82 +16,82 @@ The interior of the building must be distributed to the main premises that affec
 **MINIMUM FRONT SETBACK:** 5 m.
 
 ## PROGRAM OF NEEDS
-<table style="width: 50%; text-align: center;" class="table" cellpading="0" cellspacing="0" border="1">
+<table style="width: 50%; text-align: center;" class="table" cellpading="0" cellspacing="0" border="1px">
     <tr>
-        <td style="width: 50%;"> **Offices area** </td>
-        <td style="width: 50%;"> Approximate surface </td>
+        <td style="width: 50%;"><span style="font-weight:bold"> Offices area </span></td>
+        <td style="width: 50%;"><span style="font-weight:bold"> Approximate surface </span> </td>
     </tr>
     <tr>
         <td style="width: 50%;"> Reception </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Exposition </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Financial office </td>
-        <td style="width: 50%;"> 10 m^2 </td>
+        <td style="width: 50%;"> 10 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Retail warehouse </td>
-        <td style="width: 50%;"> 75 $m^2$ </td>
+        <td style="width: 50%;"> 75 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Public toilets </td>
-        <td style="width: 50%;"> 15 m^2 </td>
+        <td style="width: 50%;"> 15 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Staff canteen </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Managment </td>
-        <td style="width: 50%;"> 50 m^2 </td>
+        <td style="width: 50%;"> 50 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Changing rooms </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Chief's office </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
-        <td style="width: 50%;"> Total area </td>
-        <td style="width: 50%;"> 275 m^2 </td>
+        <td style="width: 50%;"><span style="font-style:italic; font-weight:bold"> Total area </span></td>
+        <td style="width: 50%;"><span style="font-style:italic; font-weight:bold"> 275 <var>m<sup>2</sup></var> </span></td>
     <tr>
     <tr>
-        <td style="width: 50%;"> Industrial area </td>
-        <td style="width: 50%;"> Approximate surface </td>
+        <td style="width: 50%;"><span style="font-weight:bold"> Industrial area </span></td>
+        <td style="width: 50%;"><span style="font-weight:bold"> Approximate surface </span></td>
     <tr>
     <tr>
         <td style="width: 50%;"> Unloading dock </td>
-        <td style="width: 50%;"> 200 m^2 </td>
+        <td style="width: 50%;"> 200 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Wholesale warehouse </td>
-        <td style="width: 50%;"> 200 m^2 </td>
+        <td style="width: 50%;"> 200 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Material test room </td>
-        <td style="width: 50%;"> 50 m^2 </td>
+        <td style="width: 50%;"> 50 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Packing room </td>
-        <td style="width: 50%;"> 150 m^2 </td>
+        <td style="width: 50%;"> 150 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
         <td style="width: 50%;"> Control office </td>
-        <td style="width: 50%;"> 25 m^2 </td>
+        <td style="width: 50%;"> 25 <var>m<sup>2</sup></var> </td>
     <tr>
     <tr>
-        <td style="width: 50%;"> Total industrial area </td>
-        <td style="width: 50%;"> 625 m^2 </td>
+        <td style="width: 50%;"><span style="font-style:italic; font-weight:bold"> Total industrial area </span></td>
+        <td style="width: 50%;"><span style="font-style:italic; font-weight:bold"> 625 <var>m<sup>2</sup></var> </span></td>
     <tr>
     <tr>
-        <td style="width: 50%;"> Total area </td>
-        <td style="width: 50%;"> 900 m^2 </td>
+        <td style="width: 50%;"><span style="font-style:bold; color:#fe0000;"> Total area </span></td>
+        <td style="width: 50%;"><span style="font-style:bold; color:#fe0000;"> 900 <var>m<sup>2</sup></var> </span></td>
     <tr>
 </table>
 
@@ -108,4 +108,17 @@ The interior of the building must be distributed to the main premises that affec
 
 The content of the warehouses is printing material. It is not manufactured, only mixing, packing and storage. 
 
-With this information, the fire load by rooms and total resultant must be calculated. Evaluate type of instrinsic risk. Sectorization and evacuation of occupants must be resolved. Establish degree of protection of the structure. 
+With this information, the fire load by rooms and total resultant must be calculated. Evaluate type of instrinsic risk. Sectorization and evacuation of occupants must be resolved. Establish degree of protection of the structure.
+
+## EVACUATION OF WATER FROM THE INDUSTRIAL WAREHOUSE
+
+The drawing will be made with the layout of the network, together with the calculation with specifications of:
+- Number of deck drains.
+- Gutter diameter.
+- Diameter and number of downspouts, with a name for each one. 
+- Diameter and specifications of collectors. The urbanization (parking spaces) must also be included in the collection of rainwater.
+- Connection diameter. The discharge will be made at a height between 40 and 80 cm from the bottom of the sanitation network. The bottom of the first chest of the route is assumed to be 50 cm deep.
+
+All the elements must be differentiated and labeled on the layout, including manholes, percentage drop, etc. 
+
+The public sanitation network runs along the axis of the roads at a depth of 2 m. the feasibility of the connection must be justified.
